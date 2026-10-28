@@ -1,0 +1,49 @@
+  
+  *{
+     box-sizing: border-box;
+  }
+
+  body{
+    background-image: url(images/2-7472b5c6.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position:  left;
+    background-size: 100%;
+
+  }
+  div{
+            background: rgb(255, 0, 102);
+            width: 300px;
+            height: 300px;
+           
+        }
+
+        .mybox{
+            background: orangered;
+            margin: 60px 90px;
+            padding: 22px;
+            border-top: 8px solid rgb(20, 3, 1);
+             border-radius: 90px 0px;
+           
+        }
+        h2 {
+          text-align: center;
+        }
+
+
+        .txt{
+          background: rgba(241, 230, 230, 0.461);
+          color:green;
+          font-size: 17px;
+          text-align:left;
+          text-decoration:underline red;
+          text-transform:capitalize;
+          text-shadow: 2px 4px 7px rgb(40, 85, 40);
+          line-height: 29px;
+          word-spacing: 2px;
+          letter-spacing: 3px;
+          text-indent: 66px;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          font-weight: 20; 
+        }
+
